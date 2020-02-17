@@ -1,3 +1,4 @@
 conan-center https://conan.bintray.com true
 bincrafters https://api.bintray.com/conan/bincrafters/public-conan true
 devcodeone https://api.bintray.com/conan/devcodeone/public-conan true
+ecashptyltd https://api.bintray.com/conan/ecashptyltd/public-conan true
